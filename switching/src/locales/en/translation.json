@@ -1,0 +1,9 @@
+{
+    "login": {
+      "title": "Login",
+      "phoneNumber": "Phone Number",
+      "currency": "Prices are displayed in: {{currency}}",
+      "submit": "Submit"
+    }
+  }
+  
